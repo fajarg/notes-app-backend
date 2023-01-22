@@ -9,8 +9,7 @@
   },
   "rules": {
     "no-console": "off",
-    // "linebreak-style": "off",
-    "linebreak-style": ["unix", "windows"],
+    "linebreak-style": "off",
     "no-underscore-dangle": "off",
     "semi": "off"
   }
